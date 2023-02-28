@@ -1,4 +1,4 @@
 # momentumClone
 
-<hr>
-#  https://yunahram.github.io/momentumClone/index.html
+
+#  https://yunahram.github.io/momentumClone/momentumClone/index.html
