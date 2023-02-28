@@ -1,7 +1,9 @@
 const images =[
     "img01.jpg",
     "img02.jpg",
-    "img03.jpg"
+    "img03.jpg",
+    "img04.jpeg",
+    "img05.jpeg"
    
 ];
 const BG = "background"
